@@ -1,0 +1,1 @@
+This repository contains the code from my "Learning C++" blog, which can be found at [http://schoren.wordpress.com]
